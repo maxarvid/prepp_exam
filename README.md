@@ -1,3 +1,3 @@
-###BMI Calculator
+###BMI Calculator Exam
 
-Based on the course materials, not the lecture.
+Based on the course materials but with a new formula to calculate BMI.
