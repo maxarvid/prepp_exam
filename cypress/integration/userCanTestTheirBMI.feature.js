@@ -9,7 +9,7 @@ describe("User can check their BMI", () => {
   it("displays a BMI value of 24.80", () => {
     cy.get("#results").should("contain", "24.80");
   });
-  it("displays a message of you are Overweight", () => {
-    cy.get("#results").should("contain", "Overweight");
+  it("displays a message of you are Healthy", () => {
+    cy.get("#results").should("contain", "Healthy");
   });
 });
